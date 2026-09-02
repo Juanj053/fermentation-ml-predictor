@@ -1,0 +1,55 @@
+{
+    "selected_model": "Gradient_Boosting",
+    "n_samples_total": 1500,
+    "n_train_samples": 1200,
+    "n_test_samples": 300,
+    "test_metrics": {
+        "r2_score": 0.9056,
+        "rmse_g_l": 5.7052,
+        "mae_g_l": 3.8423,
+        "mape_percent": 55.03,
+        "max_error_g_l": 39.4734,
+        "pearson_correlation": 0.9518
+    },
+    "cv_metrics": {
+        "cv_r2_mean": 0.9127733534881207,
+        "cv_r2_std": 0.008895022167042372,
+        "cv_rmse_mean": 5.630081748337128,
+        "cv_rmse_std": 0.40369326464788363,
+        "cv_mae_mean": 3.8704853245357684,
+        "cv_mae_std": 0.23903513918045963
+    },
+    "benchmark_summary": {
+        "Ridge_Linear_Baseline": {
+            "cv_r2_mean": 0.20158383086503778,
+            "cv_r2_std": 0.03549862948545617,
+            "cv_rmse_mean": 17.053782196592785,
+            "test_r2": 0.22153507926467042,
+            "test_rmse": 16.380044706764423,
+            "test_mae": 12.748845163831026,
+            "test_mape": 233.47902702502185,
+            "tuned": false
+        },
+        "Random_Forest": {
+            "cv_r2_mean": 0.8863052978688344,
+            "cv_r2_std": 0.009141858711421903,
+            "cv_rmse_mean": 6.4313951867262436,
+            "test_r2": 0.8680936530657085,
+            "test_rmse": 6.742615672445947,
+            "test_mae": 4.522793004044922,
+            "test_mape": 58.60949708129268,
+            "tuned": false
+        },
+        "Gradient_Boosting": {
+            "cv_r2_mean": 0.9127733534881207,
+            "cv_r2_std": 0.008895022167042372,
+            "cv_rmse_mean": 5.630081748337128,
+            "test_r2": 0.9055622820665068,
+            "test_rmse": 5.705166207493103,
+            "test_mae": 3.8423449499533504,
+            "test_mape": 55.03251184349347,
+            "tuned": false
+        }
+    },
+    "timestamp_utc": "2026-09-02T15:40:22.572013+00:00"
+}
