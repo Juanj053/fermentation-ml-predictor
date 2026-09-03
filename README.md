@@ -229,5 +229,5 @@ El pipeline genera automáticamente el panel maestro de 4 cuadrantes en `reports
 
 ## 8. Licencia y Créditos
 
-Desarrollado como parte del **Portafolio de Bioingeniería y Bioprocesos Industriales de Agromamper**.  
+Desarrollado como parte del **Portafolio Abierto de Bioingeniería y Optimización de Bioprocesos Industriales**.  
 Licencia MIT. Libre para uso académico, industrial y de investigación.

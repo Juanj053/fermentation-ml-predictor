@@ -55,7 +55,7 @@ from src.predict import predict_single, predict_batch
 
 def print_banner():
     print("=" * 78)
-    print(" 🌿 AGROMAMPER BIOINGENIERÍA — PREDICTOR DE RENDIMIENTO (MACHINE LEARNING)")
+    print(" 🌿 FERMENTATION YIELD PREDICTOR — MACHINE LEARNING & BIOPROCESS")
     print("    Modelado cinético biofísico y optimización de bioprocesos industriales")
     print("=" * 78)
 

@@ -4,4 +4,4 @@ src/__init__.py
 """
 
 __version__ = "1.0.0"
-__author__ = "Agromamper Bioengineering Team"
+__author__ = "Bioengineering & Bioprocess Analytics Team"
