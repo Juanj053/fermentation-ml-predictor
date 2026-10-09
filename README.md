@@ -3,6 +3,7 @@
 
 [![Python 3.10+](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org/)
 [![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-1.3%2B-orange.svg)](https://scikit-learn.org/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Juan%20Jos%C3%A9%20%C3%81lvarez-0A66C2.svg?logo=linkedin)](https://www.linkedin.com/in/juanj-alva)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Status: Production-Grade](https://img.shields.io/badge/Status-Production--Grade-brightgreen.svg)]()
 
@@ -231,3 +232,13 @@ El pipeline genera automáticamente el panel maestro de 4 cuadrantes en `reports
 
 Desarrollado como parte del **Portafolio Abierto de Bioingeniería y Optimización de Bioprocesos Industriales**.  
 Licencia MIT. Libre para uso académico, industrial y de investigación.
+
+---
+
+## Autor & Contacto Académico / Profesional
+**Ing. Juan José Álvarez Morales**  
+Ingeniero en Biotecnología — Fundador de Elevate Biotech & Investigador en Agromanper  
+- **LinkedIn:** [linkedin.com/in/juanj-alva](https://www.linkedin.com/in/juanj-alva)  
+- **GitHub:** [@Juanj053](https://github.com/Juanj053)  
+- **Email:** [`jjalvarezm77@gmail.com`](mailto:jjalvarezm77@gmail.com)  
+
